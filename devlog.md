@@ -25,7 +25,7 @@
 * 💭 Started thinking about what core metrics to include.
 * 🔐 Decided to keep daily evidence in `proof/` including screen recordings and logs.
 
-## Day 2 – [June 28, 2025]
+## Day 2 – [July 5, 2025]
 🧭 Faced complexity while thinking about how to make DevPulse truly practical and impactful.
 
 📚 Encountered several unfamiliar terms and deep technical concepts — especially around GitHub event APIs, developer KPIs, and AI integration patterns.

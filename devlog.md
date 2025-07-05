@@ -24,3 +24,26 @@
 * 📄 Created `README.md`, `devlog.md`, `prompts.md`, `architecture.md`
 * 💭 Started thinking about what core metrics to include.
 * 🔐 Decided to keep daily evidence in `proof/` including screen recordings and logs.
+
+## Day 2 – [June 28, 2025]
+🧭 Faced complexity while thinking about how to make DevPulse truly practical and impactful.
+
+📚 Encountered several unfamiliar terms and deep technical concepts — especially around GitHub event APIs, developer KPIs, and AI integration patterns.
+
+🛑 Took a short intentional gap to clear my mind and reflect on what I was really trying to build.
+
+💡 Realized that DevPulse isn't just a project — it’s a way to show that I understand real engineering pain points and can build tools to solve them.
+
+✍️ Understood that half-baked understanding is risky, especially for a tool meant to help professionals.
+
+🎯 Decided to pause feature development temporarily and dive deep into:
+
+GitHub Insights & REST/GraphQL APIs
+
+DORA Metrics & SPACE Framework
+
+AI use cases in DevOps (NLP on commits, embeddings for summaries, etc.)
+
+🧠 Gained valuable insights that will help in designing a solid and scalable foundation.
+
+🔄 This learning loop will help avoid rework later and align the tool with real engineering team needs.
